@@ -1,0 +1,36 @@
+
+			* {
+				margin: 0;
+				padding: 0;
+				font-family: 'montserrat', sans-serif;
+				//box-sizing: border-box;
+			}
+			.section {
+				width: 100%;
+				padding: 60px 0;
+				background: #f1f1f1;
+			}
+			.inner{
+				width: 100%;
+				max-width: 1200px;
+				margin: auto;
+				padding: 0 20px;
+			}
+			
+			.section h1 {
+				text-align: center;
+				text-transform: uppercase;
+				color: #333;
+			}
+			.border {
+				width: 180px;
+				height: 4px;
+				background: #333;
+				margin: 60px auto;
+			}
+			
+			p{
+				margin-top:30px;
+					font-family: "黑体", sans-serif;
+				
+			}
